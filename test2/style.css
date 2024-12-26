@@ -1,0 +1,29 @@
+.btn-class {
+  background-color: aquamarine;
+  display: flex;
+  justify-content: center;
+}
+
+justBlock {
+  width: 100px;
+  height: 100px;
+}
+
+.counter {
+  font-size: 50px;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.square-block {
+  width: 100px;
+  height: 100px;
+  background-color: #ff6600; /* Оранжевый цвет */
+  margin: 20px;
+  display: block; /* Изначально блок виден */
+}
+.toggle-button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
